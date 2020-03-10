@@ -1,1 +1,1 @@
-# VoFiRes
+# GitHubWindowsFormsImageEditor_VagundaFidler
